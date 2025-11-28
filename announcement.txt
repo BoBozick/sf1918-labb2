@@ -1,0 +1,7 @@
+Jag sa idag på föreläsningen att ni inte behöver göra uppgift 6 eller uppgift 7 i laboration 2. Redovisningen kommer endast att betrakta de förberedelse uppgifterna och uppgifterna 1-5.
+
+Redovisningen kommer att vara muntlig, men se till att skriva ner era lösningar på uppgifterna som kräver ett skriftligt svar (till exempel en beräkning av en ML-skattning). För uppgifter som kräver kodning behöver ni skriva ett Python-skript eller en Jupyter-notebook. Ta med både era skriftliga svar och er dator med er kod till redovisningen på Dec 11. Ni kommer att bli ombedda att förklara vissa delar av er kod, visa att vissa delar av din kod fungerar och även förklara några av era skriftliga svar. De delar av laborationen som ni kommer att bli ombedda att förklara kommer att väljas slumpmässigt.
+
+För att registrera dig till redovisningen måste du och din partner tilldela er till en av grupperna som visas under 'Personer' --> 'laboration två'.  Du och din partner måste vara i samma grupp. Gör detta innan tisdag 9 Dec kl. 17.00.  På onsdag kommer ni att få en tid under datorlaborationen där ni ska träffas med mig eller en övningsassistent för redovisningen. Redovisningen kommer att ta 15 minuter per grupp.
+
+(Liam Solus)
